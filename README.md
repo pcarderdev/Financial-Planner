@@ -4,7 +4,7 @@ Scope:
 In this project I'm going to create a financial planner web application.
 
 Requirements:
-- [x] User login/logout
+- [ ] User login/logout
 - [ ] User can save lists of accounts with multiple balances
 I.E: 
       
